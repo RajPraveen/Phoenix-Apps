@@ -1,0 +1,11 @@
+
+
+This document describes the technical requirment to facilitate the completion of this project.
+
+front-end-web-application with a intention of converting to an Android application.
+
+Front-end-technlogies:
+
+HTML5, CSS3 , Vanilla Java Script, External web Api for data source and services, android to export the application natively.
+
+
